@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Room demo</string>
+    <string name="lableName">name</string>
+    <string name="position">position</string>
+    <string name="addemployee">addEmployee</string>
+    <string name="cancel">cancel</string>
+    <string name="save">save</string>
+    <string name="name">Name</string>
+    <string name="value">value</string>
+</resources>
