@@ -37,6 +37,7 @@ class ItemAdapter(
         }
 
         holder.edit.setOnClickListener{
+            //invoke function is used to call callback functions
             updateListener.invoke(item.id)
         }
 
